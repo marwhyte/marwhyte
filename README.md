@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Marco, a Full Stack Web Developer with a passion for everything front-end related.
 
-<!--
-**marwhyte/marwhyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my portfolio to learn more about me at [marcowhyte.com](https://www.marcowhyte.com/).
 
-Here are some ideas to get you started:
+### ⚡️ Popular Personal Projects ⚡️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**HireContributors**](https://www.hirecontributors.club/)
+- [**PleasantTodos**](https://www.pleasanttodos.club/)
+- [**Searchify**](https://www.searchify.club/)
+
+### 📫 Contact 📫
+
+Feel free to email me at **marcolwhyte@gmail.com** with any questions, comments or suggestions.
