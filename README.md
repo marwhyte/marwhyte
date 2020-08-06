@@ -2,7 +2,7 @@
 
 Check out my portfolio to learn more about me at [marcowhyte.com](https://www.marcowhyte.com/).
 
-### ⚡️ Popular Personal Projects ⚡️
+### ⚡️ Top Personal Projects ⚡️
 
 - [**HireContributors**](https://www.hirecontributors.club/)
 - [**PleasantTodos**](https://www.pleasanttodos.club/)
